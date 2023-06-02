@@ -1,0 +1,28 @@
+body {
+    background-color:peachpuff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1, h3 {
+    font-size: 55px;
+    text-align: center;
+    color: orange;
+}
+
+ul {
+    font-size: 30px;
+    list-style:square;
+    
+    
+}
+
+img {
+    width: 400px;
+    height: auto;
+}
+
+h3 {
+    text-align: left;
+}
+
+
