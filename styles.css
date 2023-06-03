@@ -1,28 +1,36 @@
 body {
-    background-color:peachpuff;
+    background-color: #fff;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-h1, h3 {
+h1 {
     font-size: 55px;
     text-align: center;
-    color: orange;
-}
-
-ul {
-    font-size: 30px;
-    list-style:square;
-    
-    
+    background: whitesmoke;
+    margin: auto;
+    padding: 10px;
 }
 
 img {
     width: 400px;
     height: auto;
+    display: inline-block;
+    padding: 30px;
 }
 
 h3 {
     text-align: left;
+}
+
+.container  {
+background: lightblue;
+padding: 30px;
+
+}
+
+.contents {
+    display: inline-block;
+    padding: 30px;
 }
 
 
